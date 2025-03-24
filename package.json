@@ -59,7 +59,18 @@
     "vaul": "^0.9.6",
     "zod": "^3.24.1",
     "@emotion/is-prop-valid": "latest",
-    "framer-motion": "latest"
+    "@solana/web3.js": "latest",
+    "chart.js": "latest",
+    "framer-motion": "latest",
+    "@solana/wallet-adapter-react": "latest",
+    "@solana/wallet-adapter-base": "latest",
+    "@solana/wallet-adapter-wallets": "latest",
+    "@solana/wallet-adapter-react-ui": "latest",
+    "@project-serum/anchor": "latest",
+    "react-chartjs-2": "latest",
+    "@stripe/stripe-js": "latest",
+    "firebase": "latest",
+    "events": "latest"
   },
   "devDependencies": {
     "@types/node": "^22",
